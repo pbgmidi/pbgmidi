@@ -8,3 +8,6 @@ phillipbryangoldberg@gmail.com
 ### SpongeScript:
 https://github.com/pbgmidi/SpongeScript and hosted at https://pbgmidi.tech/SpongeScript<br>
 <a href="https://pbgmidi.tech/SpongeScript"><img src="https://github.com/pbgmidi/SpongeScript/blob/main/imgs/spongescript-thumb.png"/></a>
+<br>
+### Chefben.com Recipe Generator:
+https://github.com/pbgmidi/chefbendotcomrecipegen
