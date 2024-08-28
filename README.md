@@ -1,5 +1,5 @@
 # Phillip Goldberg
-Information Systems Major at Elizabethtown College<br><br>Languages: Java, JavaScript, HTML, CSS, PHP, Python, Oracle SQL, MySQL<br><br>
+Information Systems Major at Elizabethtown College<br><br>Languages: Java, JavaScript, HTML, CSS, Python, Oracle SQL, MySQL<br><br>
 Email Addresses:<br>
 goldbergp@etown.edu<br>
 phillipbryangoldberg@gmail.com
