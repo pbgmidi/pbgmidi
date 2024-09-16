@@ -1,6 +1,7 @@
 # Phillip Goldberg
 Information Systems Major at Elizabethtown College<br><br>Languages: Java, JavaScript, HTML, CSS, Python, Oracle SQL, MySQL<br><br>
-GitHub.io Profile:<br> pbgmidi.github.io
+GitHub.io Profile:<br>
+<a href="https://pbgmidi.github.io">pbgmidi.github.io<br></a>
 Email Addresses:<br>
 goldbergp@etown.edu<br>
 phillipbryangoldberg@gmail.com
